@@ -1,0 +1,6 @@
+{
+  "name": "Epson Eye-Gaze Work Instruction System",
+  "description": "Sistem instruksi kerja sekuensial Epson dengan checkpoint konfirmasi Eye-Gaze untuk Stage 1-11 Mechanism dan durasi 15 menit per produk.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
